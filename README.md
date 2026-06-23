@@ -24,18 +24,18 @@ I build secure, scalable REST APIs and microservices with a focus on authenticat
 
 ### Pinned projects
 
-🎓 **[Student Portal](https://github.com/RafaelS05/Portal_Estudiantil)**
+**[Student Portal](https://github.com/RafaelS05/Portal_Estudiantil)**
 Full-stack academic management system · Java, Spring Boot, Spring Security 6, JPA/Hibernate, MariaDB · RBAC (4 roles), BCrypt, PDF generation, attendance, grading, messaging
 
-🎬 **[Streaming App](https://github.com/RafaelS05/StreamingApp)** *(in progress)*
+**[Streaming App](https://github.com/RafaelS05/StreamingApp)** *(in progress)*
 Decoupled REST API migrating to Screaming Architecture · Spring Boot, Spring WebFlux, JWT, OAuth2 (Google), 2FA (SMS + voice biometrics), React/Next.js frontend, Python/FastAPI microservice
 
-📚 **[Digital Library Management System](https://github.com/RafaelS05/Sistema-de-Gestion-de-Biblioteca-Digital)**
+**[Digital Library Management System](https://github.com/RafaelS05/Sistema-de-Gestion-de-Biblioteca-Digital)**
 University project · C#, ASP.NET Core, Dapper, SQL Server, Swagger/OpenAPI · Two decoupled projects (REST API + MVC), BCrypt, role-based access, MailKit notifications
 
-🖥️ **Linux Monitoring Lab**
+**Linux Monitoring Lab**
 University project · Ubuntu Server, Bash/CLI, VMs · Three-node cluster monitoring CPU/memory across distributions
 
 ---
 
-📫 r.solano.sv@gmail.com · [LinkedIn](https://www.linkedin.com/in/rafael-solano-89530b2a9/) · Cartago, Costa Rica
+r.solano.sv@gmail.com · [LinkedIn](https://www.linkedin.com/in/rafael-solano-89530b2a9/) · Cartago, Costa Rica
